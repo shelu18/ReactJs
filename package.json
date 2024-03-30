@@ -2,7 +2,7 @@
   "name": "reactjs",
   "version": "1.0.0",
   "description": "react by shailendra parihar",
-  "main": "app.js",
+  
   "scripts": {
     "test": "jest"
   },
