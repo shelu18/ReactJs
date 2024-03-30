@@ -1,0 +1,23 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore build/compiled files
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore IDE specific files
+.idea/
+*.vscode/
+
+# Ignore Parcel cache directory
+.parcel-cache/
