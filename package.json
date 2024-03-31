@@ -2,8 +2,12 @@
   "name": "reactjs",
   "version": "1.0.0",
   "description": "react by shailendra parihar",
+  "main": "index.js",
+  "start":"parcel public/index.html",
   
   "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html",
     "test": "jest"
   },
   "repository": {
