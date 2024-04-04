@@ -28,7 +28,7 @@ Here are some of the concepts covered in this repository:
 
 ## Contact Me
 
-Feel free to reach out to me at . You can Shailendra Parihar connect with me on LinkedIn  https://www.linkedin.com/in/shailendra-parihar-3122b4220.
+Feel free to reach out to me at   shailendraparihar3630@gmail.com. You can Shailendra Parihar connect with me on LinkedIn  https://www.linkedin.com/in/shailendra-parihar-3122b4220.
 
 ## License
 
