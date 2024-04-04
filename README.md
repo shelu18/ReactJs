@@ -8,7 +8,7 @@ This repository is dedicated to my learning journey with React.js. Here, I uploa
 
 To utilize this repository:
 
-1. Clone the repository to your local machine using `git clone `.
+1. Clone the repository to your local machine using `git clone  https://github.com/shelu18/ReactJs.git`.
 2. Navigate to the cloned repository.
 3. Install the necessary dependencies using `npm install`.
 4. Run the application using `npm start`.
